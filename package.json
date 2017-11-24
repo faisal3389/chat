@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisal3389/chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Faisal Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisal3389/chat/issues"
+  },
+  "homepage": "https://github.com/faisal3389/chat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
